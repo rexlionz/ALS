@@ -1,2 +1,2 @@
 # ALS
-Library System using Pythong and SQL, along with tkinter for the frontend
+Library System using Python and SQL, along with tkinter for the frontend
