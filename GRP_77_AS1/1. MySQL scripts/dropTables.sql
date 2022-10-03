@@ -1,0 +1,6 @@
+DROP TABLE Book;
+DROP TABLE BookAuthor;
+DROP TABLE Fine;
+DROP TABLE Payment;
+DROP TABLE Reserve;
+DROP TABLE alsMember;

@@ -1,0 +1,9 @@
+INSERT INTO Payment (memberID) VALUES ("A101A");
+INSERT INTO Payment (memberID) VALUES ("A201B");
+INSERT INTO Payment (memberID) VALUES ("A301C");
+INSERT INTO Payment (memberID) VALUES ("A401D");
+INSERT INTO Payment (memberID) VALUES ("A5101E");
+INSERT INTO Payment (memberID) VALUES ("A601F");
+INSERT INTO Payment (memberID) VALUES ("A701G");
+INSERT INTO Payment (memberID) VALUES ("A801H");
+INSERT INTO Payment (memberID) VALUES ("A901I");
